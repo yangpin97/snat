@@ -19,7 +19,7 @@
 
 适用于：
 
-- [飞将VPN](www.feijiangkeji.com)
+- [飞将VPN](https://www.feijiangkeji.com)
 - OpenVPN
 - WireGuard
 - IPsec
