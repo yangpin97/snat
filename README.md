@@ -1,8 +1,10 @@
 # Linux SNAT Manager
 
+一个用于 Linux 服务器的 SNAT / NAT / 端口放行管理脚本。
+
 <img width="748" height="751" alt="image" src="https://github.com/user-attachments/assets/8356fc78-4308-412d-9a2c-c3bff1413279" />
 
-一个用于 Linux 服务器的 SNAT / NAT / 端口放行管理脚本。
+---
 
 支持：
 
